@@ -1,0 +1,6 @@
+{
+  "name": "VoiceBook",
+  "description": "Offline-first audio library and ML Kit OCR book scanner for low-vision users and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
